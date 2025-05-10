@@ -1,25 +1,21 @@
-# Final Project and Deployment
+# Campus Cupid Blog
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+Welcome to the **Campus Cupid** blog! This website is designed for students to find advice and insights on topics such as dating, friendships, breakups, and self-love. It features a clean and responsive design to enhance user experience.
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+## Features:
+- Responsive Design for mobile and desktop.
+- Articles categorized by Dating, Friendships, Breakups, and Self-Love.
+- Contact form to reach out to the admins.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+## Tech Stack:
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: (Optional - can be extended with Django or Node.js)
+  
+## Visit the Live Blog:
+Check out the live version of the blog at [Campus Cupid](https://yourdomain.com).
 
-## Tasks
+## How to Run the Project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/campus-cupid.git
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
