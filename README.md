@@ -9,10 +9,9 @@ Welcome to the **Campus Cupid** blog! This website is designed for students to f
 
 ## Tech Stack:
 - Frontend: HTML5, CSS3, JavaScript
-- Backend: (Optional - can be extended with Django or Node.js)
   
 ## Visit the Live Blog:
-Check out the live version of the blog at [Campus Cupid](https://yourdomain.com).
+Check out the live version of the blog at [Campus Cupid](mellifluous-souffle-15e13e.netlify.app).
 
 ## How to Run the Project:
 1. Clone the repository:
